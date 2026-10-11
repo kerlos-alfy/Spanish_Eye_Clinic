@@ -1,0 +1,156 @@
+{
+  "treatments": [
+    {
+      "name": "LASIK",
+      "image": "assets/lasik.webp",
+      "source": "clear_vision_by_the_mediterranean_coast.png",
+      "link": "https://www.spanisheyeclinic.ae/service/lasik/"
+    },
+    {
+      "name": "Cataract",
+      "image": "assets/cataract.webp",
+      "source": "serene_lakeside_view_with_silver_haired_traveler.png",
+      "link": "https://www.spanisheyeclinic.ae/service/cataract/"
+    },
+    {
+      "name": "Dry Eye Treatment",
+      "image": "assets/dry-eye.webp",
+      "source": "crystal_clear_eye_care.png",
+      "link": "https://www.spanisheyeclinic.ae/service/dry-eye-treatment/"
+    },
+    {
+      "name": "Keratoconus",
+      "image": "assets/keratoconus.webp",
+      "source": "contact_lens_topography_still_life.png",
+      "link": "https://www.spanisheyeclinic.ae/service/keratoconus/"
+    },
+    {
+      "name": "Presbyopia",
+      "image": "assets/presbyopia.webp",
+      "source": "sunlit_reading_by_the_water.png",
+      "link": "https://www.spanisheyeclinic.ae/service/presbyopia/"
+    },
+    {
+      "name": "Amblyopia",
+      "image": "assets/amblyopia.webp",
+      "source": "sunlit_girl_drawing_by_the_window.png",
+      "link": "https://www.spanisheyeclinic.ae/service/amblyopia/"
+    },
+    {
+      "name": "Diabetes Complications",
+      "image": "assets/diabetes.webp",
+      "source": "sunlit_coastal_wellness_moment.png",
+      "link": "https://www.spanisheyeclinic.ae/service/diabetes-complications/"
+    },
+    {
+      "name": "Eye Allergies",
+      "image": "assets/allergies.webp",
+      "source": "spring_allergy_relief_by_the_lakeside.png",
+      "link": "https://www.spanisheyeclinic.ae/service/eye-allergies/"
+    },
+    {
+      "name": "Blepharitis",
+      "image": "assets/blepharitis.webp",
+      "source": "macro_closed_eye_with_natural_lash_line_detail.png",
+      "link": "https://www.spanisheyeclinic.ae/service/blepharitis/"
+    },
+    {
+      "name": "Glaucoma",
+      "image": "assets/glaucoma.webp",
+      "source": "hyper_detailed_hazel_green_eye_close_up.png",
+      "link": "https://www.spanisheyeclinic.ae/service/glaucoma/"
+    },
+    {
+      "name": "Pediatric Ophthalmology",
+      "image": "assets/pediatric.webp",
+      "source": "sunlit_girl_s_creative_study_corner.png",
+      "link": "https://www.spanisheyeclinic.ae/service/pediatric-ophthalmology/"
+    },
+    {
+      "name": "SMILE Laser Correction",
+      "image": "assets/smile.webp",
+      "source": "clear_vision_by_the_waterfront.png",
+      "link": "https://www.spanisheyeclinic.ae/service/smile-laser-correction/"
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Dr. Hani Sakla",
+      "source": "https://www.spanisheyeclinic.ae/wp-content/uploads/2025/01/6-min.jpg",
+      "profile": "https://www.spanisheyeclinic.ae/doctors/dr-hani-sakla/"
+    },
+    {
+      "name": "Dr. Wassim Altroudi",
+      "source": "https://www.spanisheyeclinic.ae/wp-content/uploads/2025/01/1-min.jpg",
+      "profile": "https://www.spanisheyeclinic.ae/doctors/dr-wassim-altroudi/"
+    },
+    {
+      "name": "Dr. Gonzalo Munoz",
+      "source": "https://www.spanisheyeclinic.ae/wp-content/uploads/2025/01/3-min.jpg",
+      "profile": "https://www.spanisheyeclinic.ae/doctors/dr-gonzalo-munoz/"
+    },
+    {
+      "name": "Dr Mohammad Abdulhafez",
+      "source": "https://www.spanisheyeclinic.ae/wp-content/uploads/2025/01/2-min.jpg",
+      "profile": "https://www.spanisheyeclinic.ae/doctors/dr-mohammad-abdulhafez/"
+    },
+    {
+      "name": "Dr. Sarah Raafat",
+      "source": "https://www.spanisheyeclinic.ae/wp-content/uploads/2025/01/8-min.jpg",
+      "profile": "https://www.spanisheyeclinic.ae/doctors/dr-sarah-raafat/"
+    },
+    {
+      "name": "Dr. Azra Vaziri",
+      "source": "https://www.spanisheyeclinic.ae/wp-content/uploads/2025/01/7-min.jpg",
+      "profile": "https://www.spanisheyeclinic.ae/doctors/dr-azra-vaziri/"
+    }
+  ],
+  "original_images_external": {
+    "logo": "https://www.spanisheyeclinic.ae/wp-content/uploads/2019/08/Prof.Sakla-Spanish-Eye.png",
+    "gallery": [
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/sds-350x250.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/11/highness-3-350x250.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/11/12-HH-crown-Prince-1-350x250.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/11/01-dr-sakla-with-HH-350x250.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/12/clope-350x250.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/11/spanish-eye-clinic1-350x250.jpg"
+    ],
+    "insurance": [
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2023/03/AXA.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/logo-old-1.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/6705971566902899Neuron-Arabic-300.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/logosdf-2.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/inayah-tpsa.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/nextceweare.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/logogfd-ft.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/AlMadhalla-lrtyogo.jpg",
+      "https://www.spanisheyeclinic.ae/wp-content/uploads/2022/01/1519909561636-1df.jpg"
+    ],
+    "blog": [
+      [
+        "How do I choose the best ophthalmologist in Dubai",
+        "https://www.spanisheyeclinic.ae/how-do-i-choose-the-best-ophthalmologist-in-dubai/",
+        "https://www.spanisheyeclinic.ae/wp-content/uploads/2026/04/best-ophthalmologist-Dubai-1024x683.webp",
+        "Apr 30, 2026"
+      ],
+      [
+        "What is the 20 20 20 rule after LASIK?",
+        "https://www.spanisheyeclinic.ae/what-is-the-20-20-20-rule-after-lasik/",
+        "https://www.spanisheyeclinic.ae/wp-content/uploads/2026/04/lasik-eye-surgery-Dubai-1024x683.webp",
+        "Apr 28, 2026"
+      ],
+      [
+        "Advanced Keratoconus Treatment in Dubai | Spanish Eye Clinic",
+        "https://www.spanisheyeclinic.ae/keratoconus-treatment/",
+        "https://www.spanisheyeclinic.ae/wp-content/uploads/2026/01/135816-1024x681.jpg",
+        "Jan 07, 2026"
+      ]
+    ]
+  },
+  "approved_images": {
+    "desktop_hero": "https://ebsaar.ae/wp-content/uploads/2026/10/Dubai-Skyline-Reflected-in-a-Glassy-Eye.webp",
+    "mobile_hero": "https://ebsaar.ae/wp-content/uploads/2026/10/Dubai-Skyline-Through-a-Futuristic-Eye-Lens.webp",
+    "about": "https://ebsaar.ae/wp-content/uploads/2026/10/Serene-Reading-by-the-Water.webp",
+    "did_you_know": "https://ebsaar.ae/wp-content/uploads/2026/10/Macro-Portrait-of-a-Hazel-Green-Eye.webp"
+  }
+}
