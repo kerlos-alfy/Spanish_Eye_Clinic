@@ -33,3 +33,79 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}.motion-enabled .reveal{opacity:1;transform:none}}
 
 .schedule-details{margin-top:35px;color:#5d6a7a;border:1px solid var(--line);background:white;border-radius:18px;padding:16px 23px}.schedule-details summary{font:800 12px Manrope;color:var(--ink);cursor:pointer;display:flex;justify-content:space-between}.schedule-details summary span{color:var(--red)}.schedule-details .schedules{display:grid;grid-template-columns:repeat(2,1fr);gap:28px;margin-top:18px}.schedule-details h3{font:800 13px Manrope;color:var(--ink)}.schedule-details p{font-size:12px;line-height:1.75}@media(max-width:650px){.schedule-details .schedules{grid-template-columns:1fr}}
+
+/* Spanish Eye Clinic — mobile hero refinements
+   Add at the END of css/style.css, or use the updated HTML file.
+   Desktop/tablet layouts above 700px are untouched. */
+@media (max-width: 700px) {
+  /* A little breathing room beneath the floating navigation. */
+  .hero {
+    padding-top: 122px;
+    min-height: 760px;
+  }
+
+  .hero-panel {
+    padding-top: 6px;
+  }
+
+  /* Smaller, more balanced headline: replaces the original 8.3vw / 33px rules. */
+  .hero h1 {
+    font-size: clamp(27px, 7vw, 31px);
+    line-height: 1.18;
+    letter-spacing: -0.052em;
+    margin: 23px 0 13px;
+    max-width: 460px;
+    text-wrap: balance;
+  }
+
+  /* Keep the supporting text comfortably readable without crowding the image. */
+  .hero-panel > p {
+    font-size: 12.5px;
+    line-height: 1.7;
+    margin-bottom: 22px;
+  }
+
+  .hero-buttons {
+    gap: 9px;
+  }
+
+  .hero-buttons .pill {
+    min-height: 44px;
+    font-size: 10px;
+    padding: 11px 14px;
+    gap: 9px;
+  }
+}
+
+/* Extra-narrow phones: stop the 390px rule restoring the oversized title. */
+@media (max-width: 390px) {
+  .hero {
+    min-height: 730px;
+  }
+
+  .hero h1 {
+    font-size: clamp(26px, 7.2vw, 28px);
+  }
+
+  .hero-buttons .pill {
+    padding: 11px 12px;
+    font-size: 9.5px;
+  }
+}
+
+/* HERO TWO-LINE MOBILE TYPOGRAPHY – desktop retains original copy and layout. */
+.hero-heading-extra-mobile,.hero-description-mobile {display:none}
+@media (max-width:700px) {
+  .hero-heading-extra-desktop,.hero-description-desktop {display:none}
+  .hero-heading-extra-mobile,.hero-description-mobile {display:block}
+  .hero h1 { margin:20px 0 13px; max-width:none; text-wrap:initial; line-height:1.16; }
+  .hero h1 .hero-heading-main {
+    display:block; font-size:clamp(20px,6.9vw,27px); line-height:1.18;
+    letter-spacing:-.06em; white-space:nowrap;
+  }
+  .hero h1 .hero-heading-extra-mobile {
+    display:block; font-size:clamp(18px,5.9vw,23px); line-height:1.24;
+    letter-spacing:-.052em; white-space:nowrap; margin-top:4px;
+  }
+  .hero-panel>p {max-width:490px; margin-bottom:22px}
+}
